@@ -1,5 +1,5 @@
-# wace-vault
-Monorepo containing resources and associated Discord bot
+# vault
+containing resources 
 
 ## wace-vault/resources
 [README](https://github.com/wace-vault/collection/tree/main/resources#wace-vaultresources)
